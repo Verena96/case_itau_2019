@@ -1,5 +1,5 @@
-# case_itau_2019
-# Descrição
+# Case Itaú 2019 - Descrição
+
 Este repositório é dedicado a compartilhar a solução do case proposto pelo processo de seleção para cientistas de dados.
 O arquivo ipynb encontra-se neste repositório para análise.
 # Detalhes
