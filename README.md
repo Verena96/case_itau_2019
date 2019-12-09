@@ -20,4 +20,5 @@ Trata-se de uma biblioteca liberada recentemente pelo Nubank com vários recurso
 # 4- SelectKBest
 Trata-se de uma técnica de seleção de variáveis, em que define-se um número k de variáveis mais relacionadas com o target.Nesse caso, escolhemos uma função para avaliação das features (chi2, f_classif, etc) e apenas as k features com maior score resultante dessas funções irão ser consideradas para aplicação no modelo preditivo.
 
+Todos os métodos descritos acima foram utilizados na resolução do case.
 
